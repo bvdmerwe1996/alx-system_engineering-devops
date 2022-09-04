@@ -1,1 +1,1 @@
-#!/bin/bash\nmv [[:upper:]]* /tmp/u
+-m #!/bin/bash\nmv [[:upper:]]* /tmp/u
