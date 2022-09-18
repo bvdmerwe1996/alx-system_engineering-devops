@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 !#/bin/bash
 printen
+=======
+#!/bin/bash
+printenv
+>>>>>>> 2cb7a81a06522d0f0ce2e96e01da3d3628fa76cf
